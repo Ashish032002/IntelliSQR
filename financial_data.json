@@ -1,0 +1,38 @@
+{
+  "Amaar raja Earnings Summary.pdf": {
+      "Company Name": "Amara Raja Energy & Mobility Ltd.",
+      "Report Date": "2024-09-30",
+      "Revenue from Operations": "₹3,135.83 crores",
+      "Profit Before Tax": "₹652.63 crores",
+      "Net Profit": "₹485.26 crores",
+      "Expenses Breakdown": [
+          {
+              "name": "Employee Expenses",
+              "value": "₹375.48 crores"
+          },
+          {
+              "name": "Cost of Materials",
+              "value": "₹3,353.66 crores"
+          }
+      ],
+      "Additional Financial Figures": []
+  },
+  "1_FinancialResults_05022025142214.pdf": {
+      "Company Name": "Eveready Industries India Ltd.",
+      "Report Date": "2024-12-31",
+      "Revenue from Operations": "₹1,045.10 crores",
+      "Profit Before Tax": "₹86.25 crores",
+      "Net Profit": "₹72.02 crores",
+      "Expenses Breakdown": [
+          {
+              "name": "Finance Costs",
+              "value": "₹19.88 crores"
+          },
+          {
+              "name": "Marketing Expenses",
+              "value": "₹52.11 crores"
+          }
+      ],
+      "Additional Financial Figures": []
+  }
+}
